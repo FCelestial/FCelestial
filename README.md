@@ -61,11 +61,21 @@
 ## 📊 GitHub 统计
 
 <div align="center">
+
+<!-- 徽章行 -->
+<a href="https://github.com/FCelestial"><img src="https://img.shields.io/github/stars/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&labelColor=6b21a8" /></a>
+<a href="https://github.com/FCelestial"><img src="https://img.shields.io/github/followers/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=f472b6&labelColor=6b21a8" /></a>
+<a href="https://github.com/FCelestial?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-3-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=6b21a8" /></a>
+<a href="https://github.com/FCelestial/FCelestial/commits/main"><img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&labelColor=6b21a8&label=Updated" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
   <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/stats.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/top-langs.svg" />
 </div>
-
-> ⏳ 统计卡片由 GitHub Actions 每日自动生成。提交一次代码或手动触发 Workflow 后会立即显示。
 
 ---
 
