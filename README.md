@@ -61,14 +61,16 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FCelestial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCelestial&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img src="https://img.shields.io/github/stars/FCelestial?style=for-the-badge&logo=github&color=ff69b4&label=Stars" />
+  <img src="https://img.shields.io/github/followers/FCelestial?style=for-the-badge&logo=github&color=ffb6c1&label=Followers" />
+  <img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=for-the-badge&logo=github&color=ff69b4&label=%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" />
+  <img src="https://img.shields.io/badge/Public_Repos-3-7b68ee?style=for-the-badge&logo=github" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FCelestial&theme=dracula&bg_color=00000000&hide_border=true&custom_title=%E6%98%9F%E7%8E%96%E7%9A%84%E6%B4%BB%E8%B7%83%E5%9B%BE&area=true" width="95%" />
+  <img src="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=0d1117&widget=false&chart=0d1117" width="95%" />
 </div>
 
 ---
