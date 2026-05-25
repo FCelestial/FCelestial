@@ -61,9 +61,11 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FCelestial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCelestial&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/stats.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/top-langs.svg" />
 </div>
+
+> ⏳ 统计卡片由 GitHub Actions 每日自动生成。提交一次代码或手动触发 Workflow 后会立即显示。
 
 ---
 
