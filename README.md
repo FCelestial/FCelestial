@@ -70,14 +70,7 @@
 
 </div>
 
-<br />
-
-<div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/stats.svg" />
-  <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/top-langs.svg" />
-</div>
-
-<br />
+<br /><br />
 
 <!-- 贪吃蛇贡献图（自动适配暗色/亮色主题） -->
 <picture>
