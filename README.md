@@ -77,6 +77,15 @@
   <img height="180em" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/top-langs.svg" />
 </div>
 
+<br />
+
+<!-- 贪吃蛇贡献图（自动适配暗色/亮色主题） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
+  <img alt="GitHub 贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
+</picture>
+
 ---
 
 ## 📦 项目
