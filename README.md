@@ -61,16 +61,22 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/FCelestial?style=for-the-badge&logo=github&color=ff69b4&label=Stars" />
-  <img src="https://img.shields.io/github/followers/FCelestial?style=for-the-badge&logo=github&color=ffb6c1&label=Followers" />
-  <img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=for-the-badge&logo=github&color=ff69b4&label=%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" />
-  <img src="https://img.shields.io/badge/Public_Repos-3-7b68ee?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/FCelestial?style=social&logo=github&label=Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/FCelestial?style=social&logo=github&label=Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Public_Repos-3-ff69b4?style=flat-square&logo=github&logoColor=white&labelColor=555" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=flat-square&logo=github&logoColor=white&labelColor=555&color=ff69b4&label=%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=0d1117&widget=false&chart=0d1117" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=0d1117&widget=false" />
+    <img src="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=ffffff&widget=false" width="95%" />
+  </picture>
 </div>
 
 ---
