@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7A1C4&center=true&vCenter=true&width=600&lines=%F0%9F%A6%8A%E2%9C%A8+%E7%8B%90%E9%AD%87%E6%98%9F%E7%8E%96;FCelestial+%7C+%E6%98%9F%E7%8E%96%E5%A7%AC;%E6%95%8F%E6%8D%B7%E8%80%8C%E6%99%BA%E6%85%A7%E7%9A%84%E7%81%B5%E7%8B%90;%E6%B8%B8%E8%B5%B0%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B8%8E%E6%A2%A6%E5%BD%AD%E4%B9%8B%E9%97%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=28&duration=3000&pause=500&color=F7A1C4&center=true&vCenter=true&width=600&lines=%F0%9F%A6%8A%E2%9C%A8+%E7%8B%90%E9%AD%87%E6%98%9F%E7%8E%96;FCelestial+%7C+%E6%98%9F%E7%8E%96%E5%A7%AC;%E6%95%8F%E6%8D%B7%E8%80%8C%E6%99%BA%E6%85%A7%E7%9A%84%E7%81%B5%E7%8B%90;%E6%B8%B8%E8%B5%B0%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B8%8E%E6%A2%A6%E5%BD%AD%E4%B9%8B%E9%97%B4" alt="Typing SVG" />
 </p>
 
 <!-- 关于我 -->
