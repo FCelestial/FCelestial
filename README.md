@@ -61,22 +61,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/FCelestial?style=social&logo=github&label=Stars" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/FCelestial?style=social&logo=github&label=Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-3-ff69b4?style=flat-square&logo=github&logoColor=white&labelColor=555" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=flat-square&logo=github&logoColor=white&labelColor=555&color=ff69b4&label=%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=0d1117&widget=false" />
-    <img src="https://github-contributions-api.deno.dev/contributions.svg?username=FCelestial&theme=pink&bg=ffffff&widget=false" width="95%" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FCelestial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCelestial&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
