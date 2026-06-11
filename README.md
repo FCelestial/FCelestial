@@ -53,9 +53,8 @@
 
 ### 🤖 AI & 数据
 
-![Z.AI](https://img.shields.io/badge/Z.AI-3850A0?style=for-the-badge&logo=&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4F6B8E?style=for-the-badge&logo=&logoColor=white)
-![MiniMax](https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-3850A0?style=for-the-badge&logo=&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=&logoColor=white)
@@ -69,7 +68,7 @@
 <!-- 徽章行 -->
 <a href="https://github.com/FCelestial"><img src="https://img.shields.io/github/stars/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&labelColor=6b21a8" /></a>
 <a href="https://github.com/FCelestial"><img src="https://img.shields.io/github/followers/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=f472b6&labelColor=6b21a8" /></a>
-<a href="https://github.com/FCelestial?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-4-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=6b21a8" /></a>
+<a href="https://github.com/FCelestial?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-7-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=6b21a8" /></a>
 <a href="https://github.com/FCelestial/FCelestial/commits/main"><img src="https://img.shields.io/github/last-commit/FCelestial/FCelestial?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&labelColor=6b21a8&label=Updated" /></a>
 <a href="https://miragedge.top/soul"><img src="https://img.shields.io/badge/%F0%9F%A6%8A_Soul-7b68ee?style=for-the-badge" /></a>
 
@@ -77,7 +76,7 @@
 
 <br /><br />
 
-<!-- 贪吃蛇贡献图（自动适配暗色/亮色主题） -->
+<!-- 贪吃蛇贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
@@ -88,23 +87,24 @@
 
 ## 📦 项目
 
-### 🚀 活跃项目
+### 🚀 主力项目
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
+| [FCelestial-hermes-agent](https://github.com/FCelestial/FCelestial-hermes-agent) | Hermes Agent Fork — PTY 修复、delegate_task 模型参数支持、Gateway 审批系统等增强 | Python / MCP / FastAPI |
 | [eveng-mcp](https://github.com/FCelestial/eveng-mcp) | EVE-NG MCP Server — 通过 MCP 协议远程管理网络仿真环境 | Python / FastMCP |
-| [daily_stock_analysis](https://github.com/FCelestial/daily_stock_analysis) (fork) | AI 股票分析系统 — 多数据源 + DeepSeek 评分 + 邮件推送 | Python / Pandas |
-| [honcho-deploy](https://github.com/FCelestial/honcho-deploy) (local) | 自托管 Honcho 记忆引擎 — Docker Compose 4 服务全栈 | Python / FastAPI / pgvector / Redis |
+| [ai-goofish-monitor](https://github.com/FCelestial/ai-goofish-monitor) | 闲鱼多任务监控系统 — Playwright + AI 智能分析 + 后台管理 UI | Python / Playwright |
+| [FwindEmikoCore](https://github.com/FCelestial/FwindEmikoCore) | 锐界幻境物品功能核心库 — MC 插件基础框架 | Java / PaperMC |
 
-### 🔧 锐界幻境 MiragEdge 插件（Fork → PR 贡献）
+### 🔧 锐界幻境 MiragEdge 贡献
 
 | 项目 | 贡献 |
 |------|------|
+| [MiragEdge-DocWeb](https://github.com/FwindEmiko/MiragEdge-DocWeb) | 灵魂文档页面、图标库替换、CI/CD 优化 |
 | [FE_FixRepairingEnchant](https://github.com/FwindEmiko/FE_FixRepairingEnchant) | 配置缓存优化、引用比较修复 |
 | [FE_RefreshPapi](https://github.com/FwindEmiko/FE_RefreshPapi) | 清理废弃代码、日志优化 |
-| [MiragEdge-DocWeb](https://github.com/FwindEmiko/MiragEdge-DocWeb) | 灵魂文档页面、CSS 修复、CI/CD 优化 |
-| [FwindEmiko Core](https://github.com/FwindEmiko/FwindEmikoCore) | 核心库代码审计 |
 | [FE_PVP](https://github.com/FwindEmiko/FE_PVP) | PvP 竞技场插件代码审计 |
+| [FwindEmiko Core](https://github.com/FwindEmiko/FwindEmikoCore) | 核心库代码审计 |
 
 ---
 
